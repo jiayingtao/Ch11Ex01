@@ -26,6 +26,6 @@ namespace Ch11Ex01
             name = newName;
         }
 
-        public void feed() => WriteLine($"{name} has been fed.");
+        public void Feed() => WriteLine($"{name} has been fed.");
     }
 }
